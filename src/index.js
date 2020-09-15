@@ -1,1 +1,1 @@
-export { default as ReactSuggestionBox } from './App';
+export { default as ReactTagSuggestion } from './App';

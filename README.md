@@ -1,21 +1,21 @@
-# ReactSuggestionBox
+# ReactTagSuggestion
 
-> This library can be used to create a react suggestion box where the items gets listed as tags below the box.
+> This library can be used to create a react tag suggestion box where the items gets listed as tags below the box.
 
 ## Install
 
 Install with yarn
 ```
-yarn add react-suggestion-box
+yarn add react-tag-suggestion
 ```
 or with npm
 ```
-npm i react-suggestion-box
+npm i react-tag-suggestion
 ```
 
 ## API
 
-### ReactSuggestionBox
+### ReactTagSuggestion
 
 | Props  | Type | Default | Description |
 | ------ | ---- | ------- | ----------- |
